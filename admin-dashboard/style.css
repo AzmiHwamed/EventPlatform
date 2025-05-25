@@ -1,0 +1,33 @@
+body {
+    background-color: #070720;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #0B0C2A;
+}
+th, td {
+    border: 1px solid #fff;
+    padding: 10px;
+    text-align: left;
+}
+a, button {
+    background: #0B0C2A;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
